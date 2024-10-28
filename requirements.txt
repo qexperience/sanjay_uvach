@@ -1,0 +1,6 @@
+Flask
+opencv-python-headless
+pillow
+moviepy
+python-docx
+matplotlib
